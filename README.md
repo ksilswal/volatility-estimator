@@ -22,7 +22,7 @@ indicates more stable prices. In trading and risk management, volatility is
 closely associated with uncertainty and potential risk.
 
 ### Formal Definition
-Let \( P_t \) denote the asset price at time \( t \). The log return is defined as
+Let ![](https://latex.codecogs.com/svg.image?P_t) denote the asset price at time \( t \). The log return is defined as
 
 ![log-return](https://latex.codecogs.com/svg.image?r_t=\log\left(\frac{P_t}{P_{t-1}}\right))
 
